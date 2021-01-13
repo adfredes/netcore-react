@@ -1,0 +1,17 @@
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Dominio.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb

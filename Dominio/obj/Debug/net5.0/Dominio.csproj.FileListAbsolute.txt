@@ -1,0 +1,12 @@
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\Cursos\Udemy\NetCore-React\proyectocore\Dominio\obj\Debug\net5.0\Dominio.pdb
